@@ -22,6 +22,9 @@ Welcome to the GitHub repository of the Advanced Keylogger tailored for ethical 
 To begin leveraging the capabilities of the Advanced Keylogger for Ethical Hacking, follow these steps:
 
 •	Clone or download the repository to your local machine.
+
 •	Consult the provided documentation for clear installation steps and detailed configuration insights.
+
 •	Personalize the keylogger settings to align with your testing requirements.
+
 •	Deploy the keylogger in controlled, authorized environments to uncover potential vulnerabilities and bolster security defenses.
