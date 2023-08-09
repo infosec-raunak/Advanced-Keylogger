@@ -1,7 +1,7 @@
 # Advanced Keylogger for Ethical Hacking
 Welcome to the GitHub repository of the Advanced Keylogger tailored for ethical hacking. Our comprehensive and thoughtfully designed keylogger tool serves as a valuable asset for ethical hackers, penetration testers, and cybersecurity researchers seeking to assess and enhance the security of systems and networks.
 
-**Key Features:**
+# Key Features:
 
 •	**Stealthy Monitoring**: Our advanced keylogger operates covertly, remaining undetectable while capturing a wide range of user activities, making it an indispensable tool for ethical hacking scenarios.
 
@@ -17,7 +17,8 @@ Welcome to the GitHub repository of the Advanced Keylogger tailored for ethical 
 
 •	**Ethical Use Guidelines**: While this tool empowers ethical hacking and security research, it is crucial to employ it responsibly, adhering to legal and ethical standards at all times.
 
-**Getting Started:**
+
+# Getting Started:
 
 To begin leveraging the capabilities of the Advanced Keylogger for Ethical Hacking, follow these steps:
 
